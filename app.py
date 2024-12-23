@@ -57,5 +57,5 @@ def monitor_tweets():
 
 #Starts Monitoring
 if __name__ == "__main__":
-  monitor_tweets()
+  monitor_tweets
 
